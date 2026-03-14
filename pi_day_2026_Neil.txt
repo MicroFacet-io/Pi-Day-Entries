@@ -1,0 +1,4 @@
+Solution is available at: 
+
+https://github.com/wedusk101/Computer-Graphics-Using-BGI/blob/master/Examples/Buffons_Needle_Pi.cpp
+Not posting here directly since running this requires the BGI library as a dependency.
